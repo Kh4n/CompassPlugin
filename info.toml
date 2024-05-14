@@ -1,0 +1,8 @@
+[meta]
+name        = "Compass"
+author      = "hLk_886"
+category    = "Based"
+version     = "1.0.0"
+
+[script]
+dependencies = ["VehicleState"]
